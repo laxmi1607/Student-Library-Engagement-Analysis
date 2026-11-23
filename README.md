@@ -13,7 +13,7 @@ The average number of library visits in the dataset is exactly 4 visits per week
 - `fds_project.py` - main Python program for IDLE
 - `dashboard.py` - simple Streamlit dashboard
 - `start_dashboard.bat` - starts the dashboard on Windows
-- `project_report.docx` - simple project report
+- `fds_project_documentation_final.docx` - simple project report
 - `readme.md` - project information
 
 ## How to run in IDLE
